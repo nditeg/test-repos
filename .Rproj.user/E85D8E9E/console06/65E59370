@@ -1,90 +1,0 @@
-[0m[0K]0;:/c/Users/gabriel/Documents/loans[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hInitialized empty Git repository in C:/Users/gabriel/Documents/loans/.git/[0K[?25l
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[6G[?25l$ ls -[0K[?25ha[0Kl[0K[?25l
-[0K[?25h[?25ltotal 42[0K[1G[?25h[?25l
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 .[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:08 ..[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:10 .Rproj.user[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 .git[0K
--rw-r--r-- 1 med-gbt None 116 Jan 10  2017 README.md[0K
-drwxr-xr-x 1 med-gbt None   0 Jan 10  2017 data[0K
--rw-r--r-- 1 med-gbt None 218 Dec 10 17:10 loans.Rproj[0K
--rw-r--r-- 1 med-gbt None   0 Jan 10  2017 main.py[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25hg[0Kit/[0K[?25l
-[0K[?25h]0;:/c/Users/gabriel/Documents/loans/.git[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hl[0K[?25l
-bash: ll: command not found[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[6G[?25l$ ls -[0K[?25ha[0Kl[0K[?25l
-[0K[?25htotal 15[0K[?25l
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 .[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 ..[0K
--rw-r--r-- 1 med-gbt None  23 Dec 10 17:11 HEAD[0K
--rw-r--r-- 1 med-gbt None 130 Dec 10 17:11 config[0K
--rw-r--r-- 1 med-gbt None  73 Dec 10 17:11 description[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 hooks[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 info[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 objects[0K
-drwxr-xr-x 1 med-gbt None   0 Dec 10 17:11 refs[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K[?25l$ git add README.m[0K[?25h[?25l$ git add README.[0K[?25h[?25l$ git add README[0K[?25h[?25l$ git add READM[0K[?25h[?25l$ git add READ[0K[?25h[?25l$ git add REA[0K[15G[?25h[?25l$ git add RE[0K[?25h[?25l$ git add[0K[12G[?25h[11G[10G[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/c/Users/gabriel/Documents/loans[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25hREADME.md  data  loans.Rproj  main.py[0K[?25l
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add R[0K[?25hE[0KADME.md[0K[21G[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in README.md.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25ht[0K[?25l$ g[0K[?25he[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Kus[0K[14G[?25l
-[0K[?25hOn branch master[0K[?25l
-[0K
-No commits yet[0K
-[0K
-Changes to be committed:[0K
-  (use "git rm --cached <file>..." to unstage)[0K
-[0K
-        [0;32mnew file:   README.md[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mdata/[0m[0K
-        [0;31mloans.Rproj[0m[0K
-        [0;31mmain.py[0m[0K
-[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "Initial version"[0K[?25h[?25l
-[0K[?25h[master (root-commit) 26d0376] Initial version[0K[?25l
- 1 file changed, 4 insertions(+)[0K
- create mode 100644 README.md[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "Initial version"[0K[?25h[?25l$ git status[0K[14G[?25h[?25l
-[0K[?25h[?25lOn branch master[0K[1G[?25h[?25l
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mdata/[0m[0K
-        [0;31mloans.Rproj[0m[0K
-        [0;31mmain.py[0m[0K
-[0K
-nothing added to commit but untracked files present (use "git add" to track)[0K
-[0K[?25h[?25l
-[0;32mmed-gbt@DESKTOP-V5ID1BI [0;35m [0;33m~/Documents/loans[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
